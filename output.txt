@@ -1,1 +1,0 @@
-The repeating and missing numbers are: {8, 9}
